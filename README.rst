@@ -61,7 +61,7 @@ will display lists of emails and IDs as a comma-seperated list, making sendin
 bulk emails out a bit easier (or using the IDs in model queries).
 
 
-A similar comand, ``enableuser``, is provided if you need to specifically enable
+A similar command, ``enableuser``, is provided if you need to specifically enable
 a particular user.
 
 Some template tags are also provided  in ``limitusers.templatetags.limitusers``
